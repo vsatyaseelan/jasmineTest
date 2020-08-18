@@ -1,0 +1,22 @@
+{
+  "name": "jasminetest",
+  "version": "1.0.0",
+  "description": "This is an exercise to code testing using Jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsatyaseelan/jasmineTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsatyaseelan/jasmineTest/issues"
+  },
+  "homepage": "https://github.com/vsatyaseelan/jasmineTest#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.1"
+  }
+}
